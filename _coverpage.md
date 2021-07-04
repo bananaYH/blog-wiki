@@ -1,4 +1,4 @@
-![logo](https://throwable-blog-1256189093.cos.ap-guangzhou.myqcloud.com/202009/_media/icon.svg)
+![logo](https://luoyunhao.com/usr/themes/handsome/assets/img/皮卡丘.png)
  
 # docsify <small>3.5</small>
  
