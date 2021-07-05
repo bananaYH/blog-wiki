@@ -1,3 +1,3 @@
-* [**🍌HOME**](https://bananayh.github.io/blog-wiki)
+* [**🍌HOME**](#/)
 * [**📖博客**](https://luoyunhao.com)
 
