@@ -29,10 +29,32 @@
             search: {
                 maxAge: 86400000,
                 paths: 'auto',
-                placeholder: '搜索',
-                noData: '找不到结果',
-                depth: 4,
-                hideOtherSidebarContent: false,
+                placeholder: '🔍搜索',
+                noData: '😒找不到结果',
+                depth: 6,
+                hideOtherSidebarContent: false
+            },
+            //字数统计
+            count:{
+                countable: true,
+                position: 'top',
+                margin: '10px',
+                float: 'right',
+                fontsize:'0.9em',
+                color:'rgb(90,90,90)',
+                language:'chinese',
+                localization: {
+                    words: "",
+                    minute: ""
+                },
+                isExpected: true
+            },
+            scrollToTop: {
+                auto: true,
+                text: 'Top',
+                right: 15,
+                bottom: 15,
+                offset: 500
             }
         }
   </script>
@@ -47,7 +69,10 @@
   <!-- 复制代码快捷键 -->
   <script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script>
   <!-- 分页导航支持 -->
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <!-- 字数统计 -->
+  <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
+  <!-- 回到顶部 -->
+  <script src="//unpkg.com/docsify-scroll-to-top/dist/docsify-scroll-to-top.min.js"></script>
 </body>
 </html> 
