@@ -1,7 +1,7 @@
 ![logo](https://luoyunhao.com/usr/themes/handsome/assets/img/皮卡丘.png)
  
-# 不拿呐のWiki
+# BananaYH Wiki
 
  
-[GitHub](https://github.com/bananaYH/blog-wiki)
-[Get Started](#headline)
+[博客](https://luoyunhao.com)
+[开始阅读](#headline)
