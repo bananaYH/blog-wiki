@@ -9,6 +9,8 @@
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css" title="vue">
   <!-- 箭头样式 -->
   <link rel="stylesheet" href ="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css">
+  <!-- 暗模式 -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-dark-mode@latest/dist/style.min.css">
 </head>
 <body>
   <!-- 定义加载时候的动作 -->
@@ -69,11 +71,26 @@
                 crossChapterText: true,
                 crossChapter: true
             },
+            // 页脚配置
             footer: {
                 copy: '<span>Copyright &copy; 2021 💖 </span>',
                 auth: ' <strong>BananaYH</strong>',
                 pre: '<hr/>',
                 style: 'text-align: center;'
+            },
+            // 暗模式
+            themeColor : "#42b983",
+            darkMode: {
+                dark: {
+                    background: "#1c2022",
+                    toggleBtnBg: "#34495e",
+                    textColor: "#b4b4b4"
+                },
+                light: {
+                    background: "white",
+                    toggleBtnBg: "var(--theme-color)",
+                    textColor: "var(--theme-color)"
+                }
             }
         }
   </script>
@@ -97,5 +114,7 @@
   <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"> </script>
   <!-- 页脚支持 -->
   <script src="//unpkg.com/docsify-footer-enh/dist/docsify-footer-enh.min.js"></script>
+  <!-- 暗模式 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-dark-mode@latest/dist/index.min.js"></script>
 </body>
 </html> 
