@@ -4,4 +4,4 @@
 
 
 [博客](https://luoyunhao.com)
-[开始阅读](#bananayh-wiki介绍)
+[开始阅读](/README.md)
