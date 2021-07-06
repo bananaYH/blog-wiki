@@ -1,6 +1,6 @@
 * [**BananaYH Wiki介绍**](README.md)
-* [**Linux**](/ ':ignore')
+* **Linux**
   * [**Linux简介**](Linux/README.md)
-* [**Java**](/ ':ignore')
+* **Java**
   * [**蓝桥杯基础要点**](Java/蓝桥杯复习.md)
 
