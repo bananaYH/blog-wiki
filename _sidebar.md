@@ -1,4 +1,4 @@
-* [BananaYH Wiki介绍](/README.md)
+* [BananaYH Wiki介绍](README.md)
 * Linux
   * [Linux简介](Linux/README.md)
 * Java
