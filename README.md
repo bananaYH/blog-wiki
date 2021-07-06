@@ -1,4 +1,7 @@
-# BananaYH Wiki介绍
+> [!NOTE]
+> 欢迎来到BananaYH Wiki
+
+# BananaYH Wiki介绍  <!-- {docsify-ignore-all} -->
 
 
 
