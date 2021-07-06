@@ -1,4 +1,4 @@
-> [!TIP|style:flat|label:提示|iconVisibility:hidden]
+> [!TIP|label:提示]
 > 欢迎来到BananaYH Wiki
 
 # BananaYH Wiki介绍  <!-- {docsify-ignore-all} -->
