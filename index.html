@@ -27,6 +27,7 @@
             maxLevel: 4,
             // 自定义侧边栏后默认不会再生成目录，设置生成目录的最大层级，建议配置为1或者2
             subMaxLevel: 2,
+            onlyCover: false,
             // 避免不必要的回退过程
             alias: {
                 '/.*/_sidebar.md' : '/_sidebar.md'
@@ -68,6 +69,12 @@
             pagination: {
                 crossChapterText: true,
                 crossChapter: true
+            },
+            footer: {
+                copy: '<span>Copyright &copy; 2021 💖 </span>',
+                auth: ' <strong>BananaYH</strong>',
+                pre: '<hr/>',
+                style: 'text-align: center;'
             }
         }
   </script>
@@ -89,5 +96,7 @@
   <script src="//unpkg.com/docsify-scroll-to-top/dist/docsify-scroll-to-top.min.js"></script>
   <!-- 目录折叠 -->
   <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"> </script>
+  <!-- 页脚支持 -->
+  <script src="//unpkg.com/docsify-footer-enh/dist/docsify-footer-enh.min.js"></script>
 </body>
 </html> 
