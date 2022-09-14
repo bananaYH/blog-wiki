@@ -1,4 +1,4 @@
-![logo](https://luoyunhao.com/usr/themes/handsome/assets/img/皮卡丘.png)
+![logo](img/皮卡丘.png)
 
 # BananaYH Wiki
 
